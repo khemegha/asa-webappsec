@@ -10,8 +10,8 @@ Passive recon · Nmap · OWASP ZAP (DAST) · SonarQube (SAST) · CVE/NVD correla
 → one board-ready report per application.
 
 [![Download](https://img.shields.io/badge/Download-Latest%20release-6B2FA0?style=for-the-badge)](../../releases/latest)
-[![Request a key](https://img.shields.io/badge/Request%20a%20license%20key-D6247A?style=for-the-badge)](https://www.asa-ai.fr)
-[![Contact](https://img.shields.io/badge/contact%40asa--ai.fr-1A1A2E?style=for-the-badge)](mailto:contact@asa-ai.fr)
+[![Request a key](https://img.shields.io/badge/Request%20a%20license%20key-D6247A?style=for-the-badge)](https://demo.asa-ai.fr/demo.html?p=webappsec)
+[![Contact](https://img.shields.io/badge/contact%40asa--ai.fr-1A1A2E?style=for-the-badge)](https://demo.asa-ai.fr/demo.html?p=webappsec)
 
 </div>
 
@@ -70,7 +70,7 @@ The tool is **free to download**. Activation uses a license key:
 - Need more? Write to **contact@asa-ai.fr** and we unlock your quota, or we run the
   audit for you.
 
-Request your key on **[www.asa-ai.fr](https://www.asa-ai.fr)** (professional e-mail
+Request your key **[here](https://demo.asa-ai.fr/demo.html?p=webappsec)** (professional e-mail
 + phone required).
 
 ### Install & run
@@ -132,7 +132,7 @@ L'outil est en **téléchargement libre**. L'activation se fait par clé de lice
 - Besoin de plus ? Écrivez à **contact@asa-ai.fr** : nous débloquons votre quota, ou
   nous réalisons l'audit pour vous.
 
-Demandez votre clé sur **[www.asa-ai.fr](https://www.asa-ai.fr)** (e-mail
+Demandez votre clé **[ici](https://demo.asa-ai.fr/demo.html?p=webappsec&lang=fr)** (e-mail
 professionnel + téléphone requis).
 
 ### Installation & lancement
